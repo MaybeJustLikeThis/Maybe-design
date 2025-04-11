@@ -41,8 +41,4 @@ export default {
             'process.env.NODE_ENV': '"production"'
         })
     ],
-    external: [
-    'antd',
-    '@ant-design/icons'
-    ]
 };
